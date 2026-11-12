@@ -1,0 +1,5 @@
+.DS_Store
+*.parquet
+results/
+.ipynb_checkpoints/
+Manifest.toml
